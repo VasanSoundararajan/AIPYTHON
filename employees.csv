@@ -1,0 +1,11 @@
+id, name, age, department, salary, experience
+1,John,25,IT,50000,2
+2,Alice,30,HR,60000,5
+3,Bob,28,IT,55000,3
+4,David,35,Finance,75000,8
+5,Emma,27,HR,58000,4
+6,Frank,40,Finance,90000,12
+7,Grace,26,IT,52000,2
+8,Henry,31,Marketing,65000,6
+9,Ivy,29,IT,,4
+10,Jack,33,HR,70000,7
